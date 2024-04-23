@@ -1,0 +1,82 @@
+.header-title{
+    color: #6141b0;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    font-family: Arial ,"Times New Roman" , Times , serif; 
+    font-size: x-large;
+    font-weight: bolder;
+    
+    
+}
+#wrapper{
+    background-color: #f3e9ff;
+}
+.header-logo img{
+    width: 30%;
+    
+
+}
+.header-logo{
+    text-align: center;
+    position: relative;
+    top : 20px;
+}
+
+.text-outline-left {
+    border-left:3px solid #face5f;
+    padding-left: 10px;
+    color: #ecdaa7;
+    
+
+}
+.main-content{
+    
+    margin: 80px auto;
+    width: 800px;
+    height: 650px;
+    background-color: #774ad8;
+    border-radius: 10px;
+    color: white;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 20px;
+   
+    font-family: Arial ,"Times New Roman" , Times , serif;
+}
+.i-list{
+    list-style: none;
+    position: relative;
+    right: 40px;
+    margin: 20px;
+}   
+    
+
+
+.highlight{
+    background-color: #fff2b7;
+    color: black;
+    border-radius: 5px;
+    
+}
+.main-download{
+    text-align: center; 
+}
+
+.btn-download{
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: #f6cb24;
+    border-color: #f3e9ff;
+    position: relative;
+    bottom: 55px;
+
+}
+
+#footer{
+    text-align: center;
+    position: relative;
+    bottom: 45px;
+    color: #897b94;
+}
